@@ -1,10 +1,12 @@
 ---
 name: Localization Suggestion
 about: Report a problem or suggested change to Calculator's localized content.
-title: '[Localization] '
-labels: 'Area: World-Readiness'
-assignees: ''
+title: "[Localization] "
+labels: question
+assignees: chien110234
+
 ---
+
 <!--
 PLEASE NOTE: 
 We cannot _merge_ any suggested localization changes to our localized resources files. These files are automatically generated from an internal localization process.  Any suggestion submitted this way will be duplicated into our internal localization system, and then closed here.

@@ -1,11 +1,12 @@
 ---
 name: Bug report
 about: Report a problem with Calculator
-title: ''
-labels: ''
-assignees: ''
+title: Supporst
+labels: good first issue
+assignees: chien110234
 
 ---
+
 <!--
 Before filing a bug
 - Ensure the bug reproduces on the latest version of the app.

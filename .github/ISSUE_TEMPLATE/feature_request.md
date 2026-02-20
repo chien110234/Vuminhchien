@@ -2,8 +2,8 @@
 name: Feature request
 about: Propose a new feature in the app
 title: ''
-labels: 'Enhancement'
-assignees: ''
+labels: documentation
+assignees: chien110234
 
 ---
 
